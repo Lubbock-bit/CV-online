@@ -1,0 +1,50 @@
+*{
+    font-family: 'Sono', sans-serif;
+}
+
+.centrar{
+    text-align: center;
+}
+
+.redondear{
+    border-radius: 50%;
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+}
+
+.separar-margen{
+    margin-left: 150px;
+}
+
+h3{
+    font-size: 25px;
+}
+
+li{
+    background-color: rgb(113, 187, 119);
+    margin-right: 1200px;
+    font-weight: 400;
+}
+
+ul{
+    font-size: 20px;
+}
+
+h4{
+    font-size: 20px;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+  }
+
+  a:link{
+    color:purple
+  }
+
+  a:visited{
+    color: brown;
+}
